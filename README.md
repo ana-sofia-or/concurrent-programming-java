@@ -38,4 +38,4 @@ threads pendentes ou sem que estas sejam terminadas abruptamente. Este
 encerramento do sistema pode ser acionado, por exemplo, através da escrita
 de um comando de texto na consola (são aceites outras soluções).
 
-## Enunciado feito por: ESGTS/IPS 1 Ricardo Pereira, Ph.D.
+# # Enunciado feito por: ESGTS/IPS 1 Ricardo Pereira, Ph.D.
