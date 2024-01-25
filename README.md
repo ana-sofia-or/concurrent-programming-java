@@ -1,4 +1,4 @@
-# # Resource Monitor
+# Resource Monitor
 
 Este trabalho prático consiste em desenvolver um sistema em Java que
 permita fazer a monitorização dos recursos do sistema operativo,
